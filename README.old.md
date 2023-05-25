@@ -1,0 +1,1 @@
+# inventory_ec_frontend
